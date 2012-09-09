@@ -5,10 +5,7 @@ This is an example Angular application that generates a month
 calendar.  It is navigable using simple "back", "next", and
 "today" links.  The starting day is customizable.
 
-Example:
---------
-
-    http://chasefox.net/ng-calendar/
+[live example](http://chasefox.net/ng-calendar/)
 
 Thanks:
 -------
